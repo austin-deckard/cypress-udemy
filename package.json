@@ -1,0 +1,23 @@
+{
+  "name": "cypress-udemy",
+  "version": "1.0.0",
+  "description": "Cypress Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Austin Deckard",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austin-deckard/cypress-udemy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/austin-deckard/cypress-udemy/issues"
+  },
+  "homepage": "https://github.com/austin-deckard/cypress-udemy#readme",
+  "devDependencies": {
+    "cypress": "^12.3.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
